@@ -20,4 +20,3 @@ Girhub Actions在线编译Openwrt的插件，使用上游最新源码！
 ## 参考感谢
 
 1. 默认插件仓库：[fuckactions' packages](https://github.com/fuckactions/OpenWrt-packages "https://github.com/fuckactions/OpenWrt-packages")
-2. 备用插件仓库：[kiddin9' packages](https://github.com/kiddin9/kwrt-packages "https://github.com/kiddin9/kwrt-packages")
